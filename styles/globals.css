@@ -49,6 +49,10 @@ a {
   border: none;
   font-size: larger;
 }
+.button:hover {
+  background-color: #3ac25e; /* Green */
+  color: white;
+}
 .footer {
   display: flex;
   flex: 1;
