@@ -47,12 +47,12 @@ const questionList = [
 
   {
     id: 4,
-    topicName: "Recurssion",
+    topicName: "Recursion",
     questions: [],
   },
   {
     id: 5,
-    topicName: "Oops ",
+    topicName: "OOPs ",
     questions: [],
   },
   {
@@ -62,7 +62,7 @@ const questionList = [
   },
   {
     id: 7,
-    topicName: "Stack and Queues",
+    topicName: "Stacks and Queues",
     questions: [],
   },
   {
